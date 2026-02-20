@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!**
 
-- 🌱 I’m currently learning **100 days of python**
+- 🌱 I’m currently learning **100 days of Machine learning with CampusX**
 
 - 👯 I’m looking to collaborate on **Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!**
 
