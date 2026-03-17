@@ -1,38 +1,139 @@
 <h1 align="center">Hi 👋, I'm Babar Ali Khan</h1>
-<h3 align="center">AI Enthusiast | Python & C++ | Data Science | ML, Deep Learning, Generative & Agentic AI from Pakistan</h3>
+<h3 align="center">🚀 AI Engineer in Progress | Building 100 AI Projects | Python • ML • NLP • Generative AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=babaralikhan098&label=Profile%20views&color=0e75b6&style=flat" alt="babaralikhan098" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babaralikhan098" alt="babaralikhan098" /></a> </p>
-
-- 🔭 I’m currently working on **Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!**
-
-- 🌱 I’m currently learning **100 days of Machine learning with CampusX**
-
-- 👯 I’m looking to collaborate on **Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!**
-
-- 🤝 I’m looking for help with **NLP,huggingface,machine learning,deep learning,python,pandas,scikit-learn and so more.**
-
-- About [I’m a second-year BS Artificial Intelligence student with a strong foundation in AI, Data Science, and Machine Learning. Skilled in Python and C++, I have hands-on experience with Deep Learning, Generative AI, NLP, and data visualization, and I’m currently completing a 100 Days of Python Bootcamp for Data Science. I’ve also completed a 56-hour professional certification in Python, AI, and Data Science. I’m eager to apply my skills through internships, projects, and collaborative opportunities, aiming to become a proficient AI Engineer or Data Scientist.](I’m a second-year BS Artificial Intelligence student with a strong foundation in AI, Data Science, and Machine Learning. Skilled in Python and C++, I have hands-on experience with Deep Learning, Generative AI, NLP, and data visualization, and I’m currently completing a 100 Days of Python Bootcamp for Data Science. I’ve also completed a 56-hour professional certification in Python, AI, and Data Science. I’m eager to apply my skills through internships, projects, and collaborative opportunities, aiming to become a proficient AI Engineer or Data Scientist.)
-
-- 💬 Ask me about **AI and Data Science**
-
-- 📫 How to reach me **babaralikhanaiexpert098@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/babar-ali-khan-326343346/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/babar-ali-khan-326343346/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/babaralikhan098com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/babaralikhan098com" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61585860661876&sk=directory_links" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61585860661876&sk=directory_links" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/bab_arali098/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bab_arali098/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=babaralikhan098&label=Profile%20views&color=0e75b6&style=flat" alt="babaralikhan098" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=babaralikhan098&theme=algolia" alt="trophies"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babaralikhan098&show_icons=true&locale=en&layout=compact" alt="babaralikhan098" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babaralikhan098&show_icons=true&locale=en" alt="babaralikhan098" /></p>
+## 🧠 About Me
+🎓 BS Artificial Intelligence (2nd Year Student)  
+📍 Pakistan  
+💡 Passionate about AI, Data Science & Machine Learning  
+🚀 Currently building **100 Python & AI projects in 100 days**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=babaralikhan098&" alt="babaralikhan098" /></p>
+---
 
+## 🚀 Current Focus
+- 🧠 Machine Learning & Deep Learning  
+- 🤖 Generative AI & NLP  
+- ⚡ Building real-world AI projects  
+- 🌐 AI + Web Apps (Flask / Streamlit)  
+
+---
+
+## 🛠️ Skills
+
+### 👨‍💻 Programming
+- Python  
+- C++  
+
+### 📊 Data Science
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+
+### 🤖 AI / Machine Learning
+- Scikit-learn  
+- TensorFlow / PyTorch  
+- NLP (Hugging Face basics)  
+
+### ⚙️ Tools
+- Git & GitHub  
+- Docker  
+- Flask / Streamlit  
+
+---
+
+## 🚀 Featured Projects
+🔹 AI Chatbot (NLP-based)  
+🔹 House Price Prediction (ML Model)  
+🔹 Data Dashboard (Streamlit)  
+
+👉 *More projects coming daily as part of my 100-day challenge!*  
+
+---
+
+## 📈 100 Days of Code Challenge
+🚀 Building **100 AI & Python projects in 100 days**  
+📅 Follow progress here:  
+👉 [Add your repo link here]  
+
+---
+
+## 🤝 Open to Opportunities
+- 💼 AI / Data Science Internships  
+- 🤝 Open Source Collaboration  
+- 🚀 Real-world AI Projects  
+
+---
+
+## 💬 Ask Me About
+AI, Machine Learning, Data Science  
+
+---
+
+## 📫 Contact Me
+📧 babaralikhanaiexpert098@gmail.com  
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/babar-ali-khan-326343346/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.kaggle.com/babaralikhan098com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61585860661876" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/bab_arali098/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🧰 Languages and Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=babaralikhan098&show_icons=true&locale=en" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=babaralikhan098&" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=babaralikhan098&show_icons=true&locale=en&layout=compact" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+I believe in **learning by building, not just watching tutorials** 🚀
